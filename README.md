@@ -8,7 +8,7 @@ Las tecnologías en las que tengo experiencia son las siguientes.
 
 🤓Javascript
 
-💻HTML5 | CSS3 | Boostrap | Sass
+💻HTML5 | CSS3 | Boostrap
 
 ⚛️React.JS | 🛠Node.JS | Express 
 
@@ -17,4 +17,5 @@ Las tecnologías en las que tengo experiencia son las siguientes.
 🐱Git | Github
 
 📫Contacto: cesartolaba3@gmail.com
+
 🔗Linkedin: linkedin.com/in/cesar-tolaba
