@@ -8,7 +8,7 @@ Las tecnologías en las que tengo experiencia son las siguientes.
 
 🤓Javascript
 
-💻HTML5 | CSS3 | Boostrap
+💻HTML5 | CSS3 | Bootstrap
 
 ⚛️React.JS | 🛠Node.JS | Express 
 
